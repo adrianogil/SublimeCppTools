@@ -1,5 +1,9 @@
 [
     {   "caption": "Switch Header/Source C/C++",
         "command": "switch_header_source"
+    },
+    {
+        "caption": "Find in current Header/Source C/C++",
+        "command": "find_cpp_header_source"
     }
 ]
